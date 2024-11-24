@@ -1,0 +1,22 @@
+? C:\Users\Sabith\AppData\Local\Programs\stack\x86_64-windows\ghc-9.6.6\lib\x86_64-windows-ghc-9.6.6\rts-1.0.2\include\ghcversion.h
+: hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+? D:\QMUL\Functional Programming\Project\covid-project\covid-project\.stack-work\dist\effaccc7\build\autogen\Paths_covid_project.hs
+: hash: 88a68d293a73573c33b1946e798cc308073931b13443c5d3b684da7e555e33e1
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\.stack-work\dist\effaccc7\build\autogen\cabal_macros.h:
+  hash: 411a622f285ba2e5476194522d70525271da8b91835eae9a8db4f0bc668b2f49
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\ChangeLog.md:
+  hash: 4abdc801fba7cd36b6da1449018a4e76120dcb2cfdaab3382b40558dddfada64
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\README.md:
+  hash: 05b8be5ca57235e940eedacd62e8e0f1ee7871bfaa919b08358fccd15f81d6d1
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\covid-project.cabal:
+  hash: a2e1b1d560a4f25c13f12da6bac954580600319f81c7c967eeadfbf6dfe57cac
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\package.yaml:
+  hash: b9e2e5947e239b1c5b200ae04dbff5e1bd8defd49a910b8aa4b7722d376be5ce
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\src\Database.hs:
+  hash: 84deaa5f8a4dd84bbb98514813e6fee2e59734d2f2834aa996b326a51aff2d1c
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\src\Fetch.hs:
+  hash: 9f5b48e28c6eed48a9b5341b8119ef1bc56a999dd05235ec2b315711bac5c2e4
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\src\Parse.hs:
+  hash: 02173b1ee3cd1bf8160e414f30cad3c4a1c094f7e27281c1434dc59cc137c243
+D:\QMUL\Functional Programming\Project\covid-project\covid-project\src\Types.hs:
+  hash: 8b7b80c22dd7231dd5be4649c4999573e5157d01c80605a4220368d5e7a512da
